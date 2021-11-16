@@ -1,0 +1,10 @@
+INSERT INTO cli_cliente (nome, cpf, telefone, email) VALUES ('João Alves', '719.284.470-58', '(11) 98977-4455', 'ja@gmail.com');
+INSERT INTO cli_cliente (nome, cpf, telefone, email) VALUES ('Pedro do Nascimento', '281.143.430-52', '(11) 98977-3355', 'pn@live.com');
+INSERT INTO cli_cliente (nome, cpf, telefone, email) VALUES ('Arthur Garcia', '312.609.830-48', '(11) 98977-2255', 'ag@outlook.com');
+INSERT INTO cli_cliente (nome, cpf, telefone, email) VALUES ('Tereza Valce', '581.720.930-63', '(11) 98977-1155', 'tv@gmail.com');
+INSERT INTO cli_cliente (nome, cpf, telefone, email) VALUES ('Marilha Ferraz', '484.551.440-09', '(11) 98977-6655', 'mf@gmail');
+INSERT INTO cli_cliente (nome, cpf, telefone, email) VALUES ('Guilherme Antunes', '979.778.870-96', '(11) 98977-4477', 'ga@live.com');
+INSERT INTO cli_cliente (nome, cpf, telefone, email) VALUES ('Carlos Augusto', '577.599.010-216', '(11) 98977-4488', 'ca.gmail.com');
+INSERT INTO cli_cliente (nome, cpf, telefone, email) VALUES ('João Alves', '719.284.470-59', '(11) 98977-4489', 'ja2@gmail.com');
+INSERT INTO cli_cliente (nome, cpf, telefone, email) VALUES ('Maria França', '765.238.270-03', '(11) 98977-4490', 'mf@outlook.com');
+INSERT INTO cli_cliente (nome, cpf, telefone, email) VALUES ('Jorge Leão', '120.656.760-00', '(11) 98977-4433', 'jl@live.com');
